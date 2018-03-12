@@ -1,0 +1,365 @@
+{
+	"folder_history":
+	[
+		"/D/迅雷下载/html5-canvas-drag-tree"
+	],
+	"last_version": 3126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/index.html",
+					"settings":
+					{
+						"buffer_size": 4052,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3104,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Program Files (x86)/Sublime Text3/Data/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 3157,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 335.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages→列出插件"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 594.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/迅雷下载/html5-canvas-drag-tree",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/css",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/js"
+			],
+			"file_history":
+			[
+				"/D/project/sublime-text-3/README.md",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/js/verlet-1.0.0.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/SublimeTmpl.sublime-settings",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/css/style.css",
+				"/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/index.html",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"AngleConstraint",
+					"){\n",
+					"constraint"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\迅雷下载\\html5-canvas-drag-tree"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4052,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										1359,
+										1359
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 414.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/迅雷下载/html5-canvas-drag-tree/html5-canvas-drag-tree/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1036,
+										1036
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Program Files (x86)/Sublime Text3/Data/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3157,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2546,
+										2546
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1998.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 35.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,818,215,219,1174",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
